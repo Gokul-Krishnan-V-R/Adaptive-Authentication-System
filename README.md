@@ -1,4 +1,6 @@
-Adaptive Authentication System
+
+#Adaptive Authentication System
+
 Overview
 The Adaptive Authentication System is a security solution that enhances user authentication by integrating behavioral biometrics with traditional authentication methods. This project leverages neural networks to analyze keystroke dynamics and detect anomalies, ensuring a more secure and adaptive authentication process.
 
